@@ -1,0 +1,1 @@
+-full -w 1920 -h 1080 -console -novid -high -freq 144 -useforcedmparms -noforcemaccel -noforcemspd +exec user +exec autoexec -dxlevel 81
